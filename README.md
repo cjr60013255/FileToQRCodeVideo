@@ -1,5 +1,6 @@
 # FileToQRCodeVideo
 Encrypts Files then converts to QR codes then a Single Video File, Doing this in reverse is in progress...
+
 GUI is next after everything works smoothly.
 
 Project requires:
