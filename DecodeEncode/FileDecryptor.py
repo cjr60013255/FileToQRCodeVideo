@@ -44,7 +44,7 @@ class FileDecryptor:
         with open(decrypted_file_path, 'wb') as f:
             f.write(data)
 
-        print(f"File decrypted and saved as {decrypted_file_path}")
+        #print(f"File decrypted and saved as {decrypted_file_path}")
 
 '''# Example usage
 if __name__ == "__main__":

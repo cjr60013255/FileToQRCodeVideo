@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+Testing/
+Testing2.0/
 *.py[cod]
 *$py.class
 
@@ -54,6 +56,9 @@ cover/
 # Translations
 *.mo
 *.pot
+
+# Testing Stuff
+*.mp4
 
 # Django stuff:
 *.log
